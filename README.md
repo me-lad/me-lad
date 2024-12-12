@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram][instagram-badge]](https://instagram.com/me.ilad_) [![LinkedIn][linkedin-badge]](https://linkedin.com/in/iesmaeili) [![Gmail][gmail-badge]](https://mresmaeili.me@gmail.com) [![Website][website-badge]](https://iesmaeili.ir)
+[![Instagram][instagram-badge]](https://instagram.com/me.ilad_) [![LinkedIn][linkedin-badge]](https://linkedin.com/in/iesmaeili) [![Gmail][gmail-badge]](mailto:mresmaeili.me@gmail.com) [![Website][website-badge]](https://iesmaeili.ir)
 
 # 💻 Tech Stack:
 
