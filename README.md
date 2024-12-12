@@ -12,11 +12,11 @@
 
 [![Instagram][instagram-badge]](https://instagram.com/me.ilad_) [![LinkedIn][linkedin-badge]](https://linkedin.com/in/iesmaeili) [![Gmail][gmail-badge]](mailto:mresmaeili.me@gmail.com) [![Website][website-badge]](https://iesmaeili.ir)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5][html-badge] ![CSS3][css-badge] ![JavaScript][js-badge] ![Bootstrap][bootstrap-badge] ![Webpack][webpack-badge] ![SASS][sass-badge] ![NPM][npm-badge] ![jQuery][jquery-badge] ![Git][git-badge] ![GitHub][github-badge]
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![me-lad's github stats][github-stats]<br/>
 ![me-lad's github languages][language-stats]
