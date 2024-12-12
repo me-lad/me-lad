@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram][instagram-badge]](https://instagram.com/me.ilad_) [![LinkedIn][linkedin-badge]](https://linkedin.com/in/iesmaeili) [![Gmail][gmail-badge]](mailto:mresmaeili.me@gmail.com) [![Website][website-badge]](https://iesmaeili.ir)
+[![Instagram][instagram-badge]](https://instagram.com/me.ilad_) [![LinkedIn][linkedin-badge]](https://linkedin.com/in/iesmaeili) [![Gmail][gmail-badge]](mailto:mresmaeili.me@gmail.com) [![Website][website-badge]](https://iesmaeili.ir) [![Telegram][telegram-badge]](https://t.me/Mohammad_EsmaeiliVa)
 
 ## 💻 Tech Stack:
 
@@ -35,6 +35,7 @@
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 [gmail-badge]: https://img.shields.io/badge/Gmail-red.svg?logo=Gmail&logoColor=white
 [website-badge]: https://img.shields.io/badge/Website-000000.svg?logo=about.me&?&logoColor=white
+[telegram-badge]: https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white
 [js-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [css-badge]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [html-badge]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
