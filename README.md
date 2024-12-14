@@ -6,7 +6,7 @@
 
 # 📜 About Me:
 
-#### This profile belongs to a 22 years frontend learner who is eager to collaborate 🤝 with anyone looking for a mutual advancement.
+#### This profile belongs to a 22-year-old front-end learner who is eager to collaborate 🤝 with anyone looking for mutual advancement.
 
 ## 🌐 Socials:
 
