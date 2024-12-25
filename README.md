@@ -6,7 +6,7 @@
 
 # 📜 About Me:
 
-#### This profile belongs to a 22-year-old front-end learner who is eager to collaborate 🤝 with anyone looking for mutual advancement.
+#### Junior front end developer
 
 ## 🌐 Socials:
 
