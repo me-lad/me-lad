@@ -6,7 +6,7 @@
 
 # 📜 About Me:
 
-#### Junior front end developer
+#### Junior frontend developer
 
 ## 🌐 Socials:
 
