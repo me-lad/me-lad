@@ -25,10 +25,6 @@
 
 ![me-lad's github trophies][github-trophies]
 
----
-
-[![github-watchers][github-watchers]](https://visitcount.itsvg.in)
-
 <!-- All links -->
 
 [instagram-badge]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
@@ -49,4 +45,3 @@
 [github-stats]: https://github-readme-stats.vercel.app/api?username=me-lad&theme=blue-green
 [language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=me-lad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 [github-trophies]: https://github-profile-trophy.vercel.app/?username=me-lad&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4
-[github-watchers]: https://visitcount.itsvg.in/api?id=me-lad&icon=5&color=8
