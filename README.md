@@ -1,20 +1,40 @@
 <div align="center">
 
-# 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 my friend 🤗
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="65%" />
 
 </div>
 
-# 📜 About Me
+<h2 align="center">Hi 👋, I'm Mohammad Mahdi Esmaeili
 
-#### Junior frontend developer.
+  Junior frontend developer
+</h2>
 
-## 🔗 Socials
+- 👨‍💻 All of my projects are available at [Preview][website-url] | [Source code](https://github.com/me-lad?tab=repositories)
 
-[![Instagram][instagram-badge]](https://instagram.com/me.ilad_) [![LinkedIn][linkedin-badge]](https://linkedin.com/in/iesmaeili) [![Gmail][gmail-badge]](mailto:mresmaeili.me@gmail.com) [![Website][website-badge]](https://iesmaeili.ir) [![Telegram][telegram-badge]](https://t.me/Mohammad_EsmaeiliVa)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/iesmaeili/][linkedin-url]
 
-## 💻 Tech Stack
+- 📫 you can reach me by **mresmaeili.me@gmail.com**
 
-![HTML5][html-badge] ![CSS3][css-badge] ![JavaScript][js-badge] ![React][react-badge] ![React-Router][react-router-badge] ![Bootstrap][bootstrap-badge] ![TailwindCss][tailwind-badge] ![Webpack][webpack-badge] ![Vite][vite-badge] ![SASS][sass-badge] ![NPM][npm-badge] ![Git][git-badge] ![GitHub][github-badge]
+<h3 align="left">Connect with me:</h3>
+
+[![Instagram][instagram-badge]][instagram-url] [![LinkedIn][linkedin-badge]][linkedin-url] [![Gmail][gmail-badge]][gmail-url] [![Website][website-badge]][website-url] [![Telegram][telegram-badge]][telegram-url]
+
+<h3 style="font-size:1.5rem"> A little more about me...  </h3>
+
+```javascript
+const me-lad = {
+  pronouns: "he" | "him",
+  code: [Html, CSS/SCSS, Javascript, Typescript],
+  tools: [React, Redux, Git, GitHub, Vite, React-Router, Npm, TailwindCss, DaisyUi],
+  paradigms: ["functional", "object-oriented"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+};
+```
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-lad&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+❝ <em><b>Believe</b> you can and you're halfway there.</em> ❞
+
 <!-- All links -->
 
 [instagram-badge]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
@@ -22,22 +42,9 @@
 [gmail-badge]: https://img.shields.io/badge/Gmail-red.svg?logo=Gmail&logoColor=white
 [website-badge]: https://img.shields.io/badge/Website-000000.svg?logo=about.me&?&logoColor=white
 [telegram-badge]: https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white
-[js-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[ts-badge]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-[css-badge]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[html-badge]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[bootstrap-badge]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
-[tailwind-badge]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-[webpack-badge]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
-[vite-badge]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
-[sass-badge]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
-[npm-badge]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
-[git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[gitlab-badge]: https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
-[github-badge]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[react-badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[react-router-badge]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-[redux-badge]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
-[github-stats]: https://github-readme-stats.vercel.app/api?username=me-lad&theme=blue-green
 [language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=me-lad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-[github-trophies]: https://github-profile-trophy.vercel.app/?username=me-lad&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4
+[instagram-url]: https://instagram.com/me.ilad_
+[linkedin-url]: https://linkedin.com/in/iesmaeili
+[gmail-url]: mailto:mresmaeili.me@gmail.com
+[website-url]: https://iesmaeili.ir
+[telegram-url]: https://t.me/Mohammad_EsmaeiliVa
