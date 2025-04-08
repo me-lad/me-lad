@@ -24,10 +24,10 @@
 ```javascript
 const me-lad = {
   pronouns: "he" | "him",
-  code: [Html, CSS/SCSS, Javascript, Typescript],
-  tools: [React, Redux, Git, GitHub, Vite, React-Router, Npm, TailwindCss, DaisyUi],
+  code: [Html, CSS/SCSS, Javascript],
+  tools: [React, Git, GitHub, Vite, React-Router, Npm, TailwindCss, DaisyUi, Axios],
   paradigms: ["functional", "object-oriented"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+  challenge: "Going deep in: javascript & react & they're frameworks",
 };
 ```
 
