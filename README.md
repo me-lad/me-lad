@@ -25,7 +25,7 @@
 const me-lad = {
   pronouns: "he" | "him",
   code: [Html, CSS/SCSS, Javascript],
-  tools: [React, Git, GitHub, Vite, React-Router, Npm, TailwindCss, DaisyUi, Axios],
+  tools: [React, Git, GitHub, Vite, Next.js, Npm, TailwindCss, DaisyUi, Axios],
   paradigms: ["functional", "object-oriented"],
   challenge: "Going deep in: javascript & react & they're frameworks",
 };
